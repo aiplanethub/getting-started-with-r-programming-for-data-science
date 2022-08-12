@@ -27,7 +27,7 @@
 
 ## Comments in R
 
-* When writing code in R, it’s important to make sure that your code can be easily understood by others, say by your friend who wants to see your code. This can be done with a comment. Comments can be specified to explain what your code does.
+* When writing code in R, it's essential to make sure that your code can be easily understood by others, say by your friend who wants to see it. This can be done with a comment. Comments can be specified to explain what your code does.
 * R ignores everything after the hash mark and up to the end of the line. You can insert them anywhere in your code!
 
 
@@ -50,12 +50,12 @@
   * Comparison operators
   * Assignment operators
   * Logical operators
-* Let’s see some of the well know operators.
+* Let's see some of the well-known operators.
 
 ### Arithmetic Operator
 
 * Used with numeric values to perform common mathematical operations.
-* The addition, subtraction, multiplication, etc. operations come under this category.
+* The addition, subtraction, multiplication, etc., operations come under this category.
 * Example:  
 x = 2  
 y = 3  
@@ -130,15 +130,15 @@ x \* y # Multiplication
 * Example:  
 x = 5  
 y = "John"
-* In the video coming up, the tutor will discuss following things in the hands on tutorial:
+* In the video coming up, the tutor will discuss the following things in the hands-on tutorial:
   * How to assign values to object is R using the equal sign (=) or less than sign with dash
-  * How to use ls function to see the data stored in R
-  * How to use rm function to remove an object in R
+  * How to use the ls function to see the data stored in R
+  * How to use the rm function to remove an object in R
   * How to add, subtract, multiply, and divide in R
-  * How to use sqrt function in R to find the square root of an object
-  * How to use log function in R to calculate logarithms
-  * How to use exp function in R to take the exponent or anti-log
-  * How to use abs function in R to calculate the absolute value
+  * How to use the sqrt function in R to find the square root of an object
+  * How to use the log function in R to calculate logarithms
+  * How to use the exp function in R to take the exponent or anti-log
+  * How to use the abs function in R to calculate the absolute value
   * and a few handy keyboard shortcuts in R
 
 
