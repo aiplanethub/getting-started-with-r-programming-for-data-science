@@ -1,1 +1,18 @@
-<p><iframe allowfullscreen width="100%" height="569" class="google-slides-iframe" frameborder="0" scrolling="no" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_XucAOQTNtRIVnxgYjEsJPUYlT1mxgxUrwmB6kYaCVpEcrhM1HgLl6KWb8xsp1rINAtJoBhgOP0IC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></p>
+## Learning Objectives
+
+* What is Working Directory?
+* Setting up your working directory
+
+
+## What is Working Directory?
+
+* Working directory is useful for keeping your work organized.
+* A working directory is one spot (e.g., a folder) that you have created for saving all your work.
+
+## Setting Up Your Working Directory
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJ4WBjV5o1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
