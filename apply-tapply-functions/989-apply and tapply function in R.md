@@ -1,13 +1,13 @@
 ## Learning Objectives
 
-* How to use apply() function in R?
-* How to use tapply() function in R?
+* How to use the apply() function in R?
+* How to use the tapply() function in R?
 
 ## apply( ) Function in R
 
 * Apply function is a set of loop functions in R
 * The main difference is that the apply functions are more efficient than a for loop
-* Apply function requires less line of codes (less chance of coding error) and are often faster than the simpler loop
+* Apply function requires fewer lines of codes (less chance of coding error) and is often faster than the simpler loop
 
 ### Syntax
 
@@ -45,8 +45,8 @@ The syntax for apply() function is:
 
 ## tapply( ) Function in R
 
-* tapply() computes a measure (mean, median, min, max, etc..) or a function for each factor variable in a vector.
-* It is a very useful function that lets you create a subset of a vector and then apply some functions to each of the subset.
+* tapply() computes a measure (mean, median, min, max, etc.) or a function for each factor variable in a vector.
+* It is a handy function that lets you create a subset of a vector and then apply some functions to each subset.
 
 ### Syntax
 
