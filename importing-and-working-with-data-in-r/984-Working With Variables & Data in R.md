@@ -56,7 +56,7 @@ We will be using the Lung patient dataset. You can download the dataset from the
 
 ### Try Yourself!
 
-If you remember from earlier lesson, we had used colon ( : ) to generate a sequence. Use this to display some data.
+If you remember from the earlier lesson, we used colon ( : ) to generate a sequence. Use this to display some data.
 
 ### Solution to Previous Problem
 
@@ -81,7 +81,7 @@ If you remember from earlier lesson, we had used colon ( : ) to generate a seque
 
 ### Selecting A Single Column from Data
 
-To select a single variable or column from the dataset we use **$**. For example,
+To select a single variable or column from the dataset, we use **$**. For example,
 
 LungCapData$Age
 
@@ -96,11 +96,11 @@ LungCapData$Age
 
 
 
-These are the ages of patient.
+These are the ages of the patients.
 
 ### Mean of a Variable
 
-We can use mean() function to calculate the mean of the data points of a variable.
+We can use the mean() function to calculate the mean of the data points of a variable.
 
 mean(LungCapData$Age)
 
@@ -115,11 +115,11 @@ mean(LungCapData$Age)
 
 
 
-If you access column directly, it will throw error
+If you access the column directly, it will throw an error.
 
 ### Summary of the Dataset
 
-To get the statistical summary of the data we can use summary() function in R.
+To get the statistical summary of the data, we can use the summary() function in R.
 
 summary(LungCapData)
 
@@ -130,7 +130,7 @@ summary(LungCapData)
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_65157c11d9f842cbb30490412cbb9f78.png)
 
 
-You can see the summary of **numerical variables** include minimum value (min), quantiles, mean, etc. while that of c**ategorical** (or **character** or **factor**) variables include total data points count, their class and mode.
+You can see the summary of **numerical variables** including minimum value (min), quantiles, mean, etc. In contrast, **categorical** (or **character** or **factor**) variables include total data points count, their class, and mode.
 
 * In the video coming up in the next slide, the tutor will discuss the following things in the hands-on tutorial:
 
@@ -142,7 +142,7 @@ You can see the summary of **numerical variables** include minimum value (min), 
 
   ▶︎ How to ask R for different levels/categories of a categorical variable?
 
-  ▶︎ How to produce summary for variable in R? summary function in R will produce summary of variables based on their type, for example numeric values will be summarized by mean, median and quartiles, and factors or categorical variables will be summarized as frequencies.
+  ▶︎ How to produce a summary for variable in R? Summary function in R will produce a summary of variables based on their type, for example, numeric values will be summarized by mean, median, and quartiles and factors or categorical variables will be summarized as frequencies.
 
 
 
