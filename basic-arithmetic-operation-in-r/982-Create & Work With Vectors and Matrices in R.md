@@ -69,7 +69,7 @@ https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f
 
 ## Creating Sequence in R
 
-* We can generate sequence of numbers in R as shown below:
+* We can generate a sequence of numbers in R as shown below:
 
 
 
@@ -110,13 +110,13 @@ https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f
 
 
 
-* In the video coming up in the next slide, the tutor will discuss following things in the hands on tutorial:
+* In the video coming up in the next slide, the tutor will discuss the following things in the hands-on tutorial:
 
   ▶︎ How to create vectors in R for numbers or objects using the c function or concatenate function
 
-  ▶︎ How to use seq function to create sequence data in R
+  ▶︎ How to use the seq function to create sequence data in R
 
-  ▶︎ How to use rep function in R to create a vector of repeated numbers or characters
+  ▶︎ How to use the rep function in R to create a vector of repeated numbers or characters
 
   ▶︎ How to create a matrix using matrix function in R and use square brackets to extract certain elements from a matrix in R
 
