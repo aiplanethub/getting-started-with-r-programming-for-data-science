@@ -37,7 +37,7 @@
 
 * **RStudio** is a free, open-source integrated development environment (IDE in short) for **R**.
 * **RStudio** helps keep **R** more organized and adds more functionality.
-* The tutor in the upcoming video will show the R and RStudio environments. The tutor will also explain how RStudio keeps R more organized and what are the different functionalities that RStudio adds to R software.
+* The tutor in the upcoming video will show the R and RStudio environments. The tutor will also explain how RStudio keeps R more organized and the different functionalities that RStudio adds to R software.
 * Don’t worry about the codes being executed for the time being. You will learn all of them one by one in the upcoming lessons.
 
 
